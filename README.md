@@ -1,6 +1,6 @@
 In this project, I have created a website named Fitness Club where people who are looking for joining gym through online procedure can enrol themselves and remain healthy and fit.
 Especially during the pandemic time, people can avoid moving out of their houses and enroll online for the gym and avail virtual tips available on this website for mainataining good health and peace of mind.
-Also, I have created a Chat With Us page using azure bot services where a chatbot can easily guide them and solve their queries. 
+Also, I have created a Chat With Us page using QnA maker where a chatbot can easily guide them and solve their queries. 
 Also, a registration form is available on website for easy registration. 
 In the end, I deployed this web app using Azure static web app service through Github. Steps followed are as follows:-
 
